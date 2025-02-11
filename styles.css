@@ -1,4 +1,4 @@
-/* General Styles */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -6,8 +6,6 @@ body {
     background-color: #121212;
     color: #fff;
   }
-  
-  /* Header Styles */
   header {
     display: flex;
     justify-content: space-between;
@@ -50,8 +48,7 @@ body {
   nav ul li a i {
     margin-right: 8px;
   }
-  
-  /* Sidebar Styles */
+
   .sidebar {
     width: 200px;
     padding: 20px;
